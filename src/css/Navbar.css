@@ -1,0 +1,30 @@
+.bg-light {
+    border-radius: 10px !important;
+    background-color: #23395d !important;
+}
+.navbar-light .navbar-brand {
+    margin-left: 2em !important;
+    color: #fffeee !important;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #fffeee !important;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: #fffeee !important;
+}
+.navbar-toggler {
+    padding: .25rem .75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: #fffeee !important;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+}
+.sort {
+    color: #383d56 !important;
+}
+.btn {
+    border-radius: 10px;
+    background-color: #b381c4 !important;
+    color: #fffeee !important;
+}

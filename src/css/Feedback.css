@@ -1,0 +1,38 @@
+
+.sideText {
+    background: linear-gradient(90deg, rgba(20,20,223) 0%, rgb(158, 158, 204) 0%, rgba(198,198,230,1) 18%, rgba(196,172,218,1) 32%, rgba(196,129,186,1) 48%, rgba(201,137,185,1) 62%, rgba(196,141,133,1) 100%, rgba(143,118,63,1) 100%, rgba(195,199,25,1) 100%, rgba(218,61,193,1) 100%, rgba(255,192,0,1) 100%);
+    border-radius: 10px;
+    color: #fcfcfc;
+}
+.categories {
+    background: #fef9f3;
+    border-radius: 10px;
+    opacity: 5;
+    padding: 20px 0px 20px 10px;
+}
+.challengQuest {
+    color: #fef9f3;
+}
+.all {
+    background: rgba(20,20,223);;
+    color: #ebe6e6;
+}
+.ui, .ux {
+    color: rgba(20,20,223);
+    background: #ebe6e6;
+}
+.all, .ui, .ux {
+    border-radius: 10px;
+    padding: 5px 20px;
+}
+.roadmap {
+    font-weight: bold;
+    color: #23395d;
+}
+.view {
+    color: rgba(20,20,223);
+    text-decoration: underline;
+}
+.planned {
+    margin-left: -1em !important;
+}

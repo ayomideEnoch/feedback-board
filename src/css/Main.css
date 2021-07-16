@@ -1,0 +1,23 @@
+.fas {
+    color: #b381c4 !important;
+}
+.boardCheck {
+    height: 52px;
+}
+.add {
+font-weight: bold;
+}
+/* .easier {
+
+} */
+.add, .easier {
+    color: #23395d;
+margin-bottom: 0.3em !important;
+}
+button {
+    border-color: #ebe6e6 !important;
+    cursor: pointer;
+}
+.fa-comment {
+    color: #383d56 !important;
+}
